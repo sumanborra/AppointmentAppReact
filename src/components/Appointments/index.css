@@ -1,0 +1,90 @@
+/* Write your CSS here */
+.background-container {
+  background-image: linear-gradient(to top, #9796f0, #fbc7d4);
+  background-size: cover;
+  min-height: 100vh;
+  padding: 30px;
+}
+.card-container {
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  padding: 30px;
+  border-radius: 16px;
+}
+.heading {
+  font-size: 36px;
+  color: #171f46;
+}
+.label-element {
+  font-family: 'Roboto';
+  color: #b5b7c4;
+  font-size: 16px;
+}
+.input-title {
+  height: 40px;
+  width: 250px;
+  padding: 10px;
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #171f46;
+  outline: none;
+  border: 1px solid #b5b7c4;
+  margin-top: 50pxpx;
+  font-weight: 600;
+  border-radius: 8px;
+}
+.break-row {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.buttn {
+  font-family: 'Roboto';
+  background-color: #8b5cf6;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  color: #ffffff;
+  border-width: 0px;
+  width: 60px;
+}
+.appointment-styles {
+  height: 250px;
+  width: 250px;
+  margin-left: 150px;
+}
+.form-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.horizantal-line {
+  border: 2px solid #b5b7c4;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.heaing-appointment {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #171f46;
+}
+.buttn-starred {
+  font-family: 'Roboto';
+  background-color: transparent;
+  color: #9897f0;
+  border: 1px solid #9897f0;
+  padding: 5px;
+  height: 30px;
+  width: 100px;
+  border-radius: 14px;
+}
+.appointments-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-container {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}

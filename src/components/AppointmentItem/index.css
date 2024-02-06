@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.list-item-style {
+  background-color: transparent;
+  border: 1px solid #b5b7c4;
+  padding: 15px;
+  width: 30%;
+  border-radius: 14px;
+  margin: 18px;
+  margin-left: 0px;
+}
+.title-heaing {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 800;
+  color: #171f46;
+}
+.title-container-starticon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.para-time {
+  font-family: 'Roboto';
+  color: #b5b7c4;
+}
+.buttn-favorite {
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  border-width: 0px;
+}
